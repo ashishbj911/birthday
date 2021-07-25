@@ -47,3 +47,9 @@ code {
 .main-box article h4{
   margin-bottom:0;
 }
+@media(max-width:767px){
+  .main-box {
+    width: 90vw;
+    box-sizing:border-box;
+}
+}
